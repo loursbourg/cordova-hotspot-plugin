@@ -13,7 +13,6 @@
     * [.getAllHotspotDevices(successCB, errorCB)](#cordova.plugins.hotspot+getAllHotspotDevices)
     * [.connectToHotspot(ssid, password, successCB, errorCB)](#cordova.plugins.hotspot+connectToHotspot)
     * [.connectToWifiAuthEncrypt(ssid, password, authentication, encryption, successCB, errorCB)](#cordova.plugins.hotspot+connectToWifiAuthEncrypt)
-    * [.configureHotspot(ssid, mode, password, successCB, errorCB)](#cordova.plugins.hotspot+configureHotspot)
     * [.addWifiNetwork(ssid, mode, password, successCB, errorCB)](#cordova.plugins.hotspot+addWifiNetwork)
     * [.removeWifiNetwork(ssid, successCB, errorCB)](#cordova.plugins.hotspot+removeWifiNetwork)
     * [.isConnectedToInternet(successCB, errorCB)](#cordova.plugins.hotspot+isConnectedToInternet)
